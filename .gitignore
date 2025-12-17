@@ -1,0 +1,20 @@
+# Build Folders
+bin/
+obj/
+
+# User-specific files
+*.user
+*.suo
+*.vsp
+*.vspscc
+
+# Visual Studio temporary files
+*.log
+*.tlog
+*.vs/
+*.ncb
+*.sdf
+*.pdb
+
+# Solution specific
+*.sln.docstates
