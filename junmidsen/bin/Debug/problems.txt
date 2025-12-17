@@ -1,0 +1,1 @@
+2025-03-10 15:14:51.5882| MobileComputer.GetDeviceId| Проблемный лог

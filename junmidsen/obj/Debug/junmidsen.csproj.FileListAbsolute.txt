@@ -1,0 +1,8 @@
+C:\Users\323\source\repos\junmidsen\junmidsen\bin\Debug\junmidsen.exe.config
+C:\Users\323\source\repos\junmidsen\junmidsen\bin\Debug\junmidsen.exe
+C:\Users\323\source\repos\junmidsen\junmidsen\bin\Debug\junmidsen.pdb
+C:\Users\323\source\repos\junmidsen\junmidsen\obj\Debug\junmidsen.csproj.AssemblyReference.cache
+C:\Users\323\source\repos\junmidsen\junmidsen\obj\Debug\junmidsen.csproj.CoreCompileInputs.cache
+C:\Users\323\source\repos\junmidsen\junmidsen\obj\Debug\junmidsen.exe
+C:\Users\323\source\repos\junmidsen\junmidsen\obj\Debug\junmidsen.pdb
+C:\Users\323\source\repos\junmidsen\junmidsen\bin\Debug\logs.txt
